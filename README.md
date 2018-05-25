@@ -33,9 +33,9 @@ This is cheatsheet is for the benefit of myself and others. It will list and def
 | `cat <file_name>` | Read the contents of the given file name within the termainl |
 
 
-| Command        | Description   | 
+<!-- | Command        | Description   | 
 | ------------- | ------------- | 
 | `history"` | Lists the the most recent terminal commands in descending order. |
 | `printenv` | Lists all environmental variables.  |
 | `pwd` | Shows the current absolute path |
-| 
+|  -->
