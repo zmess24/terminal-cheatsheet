@@ -30,7 +30,7 @@ This is cheatsheet is for the benefit of myself and others. It will list and def
 | `pwd` | Show the current absolute path |
 | `echo <string>`| outputs the string passed as an argument |
 | `echo <string> >> <file_name>`| appends the string passed as an argument into the given file. If the file doesn't exists, it is created. |
-| `cat <file_name>` | Read the contents of the given file name within the termainl |
+| `cat <file_name>` | Read the contents of the given file name within the terminal |
 
 
 <!-- | Command        | Description   | 
