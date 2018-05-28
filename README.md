@@ -38,7 +38,7 @@ This is cheatsheet is for the benefit of myself and others. It will list and def
 
 | Command        | Description   | 
 | ------------- | ------------- | 
-| `history"` | Lists the the most recent terminal commands in descending order. |
+| `history` | Lists the the most recent terminal commands in descending order. |
 | `printenv` | Lists all environmental variables.  |
 
 
