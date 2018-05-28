@@ -8,13 +8,13 @@ This is cheatsheet is for the benefit of myself and others. It will list and def
 
 [Navigation](#navigation)<br/>
 [Reading and Writing Files](#reading-and-writing-files)<br/>
-[Bash Profile](#bash-profile)<br/>
+[System](#system)<br/>
 
 ### The Cheatsheet
 
 ---
 
-### NAVIGATOIN
+### NAVIGATION
 
 | Command        | Description   | 
 | ------------- | ------------- | 
@@ -22,6 +22,8 @@ This is cheatsheet is for the benefit of myself and others. It will list and def
 | `cd ../`| Move up one directory. |
 | `ls` | Show all files and folders within the current directory |
 | `ls -A` | Show all files and folders within the current directory, including hidden folders & files |
+| `pwd` | Shows the current absolute path |
+| `which <program_name>` | Shows the absolute path of the given program name |
 
 ### READING AND WRITING FILES
 
@@ -32,10 +34,16 @@ This is cheatsheet is for the benefit of myself and others. It will list and def
 | `echo <string> >> <file_name>`| appends the string passed as an argument into the given file. If the file doesn't exists, it is created. |
 | `cat <file_name>` | Read the contents of the given file name within the terminal |
 
+### SYSTEM
+
+| Command        | Description   | 
+| ------------- | ------------- | 
+| `history"` | Lists the the most recent terminal commands in descending order. |
+| `printenv` | Lists all environmental variables.  |
+
 
 <!-- | Command        | Description   | 
 | ------------- | ------------- | 
 | `history"` | Lists the the most recent terminal commands in descending order. |
 | `printenv` | Lists all environmental variables.  |
-| `pwd` | Shows the current absolute path |
 |  -->
