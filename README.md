@@ -23,9 +23,9 @@ This is cheatsheet is for the benefit of myself and others. It will list and def
 | `ls` | Show all files and folders within the current directory |
 | `ls -A` | Show all files and folders within the current directory, including hidden folders & files |
 | `pwd` | Shows the current absolute path |
-| mv <file_to_move> <location> | Moves a provided file/directory to a given
+| `mv <file_to_move> <location>` | Moves a provided file/directory to a given
 location |
-| cp -r <file_to_copy <location> | Copies a provided file/directory to a given
+| `cp -r <file_to_copy <location>` | Copies a provided file/directory to a given
 location  | 
 | `which <program_name>` | Shows the absolute path of the given program name |
 
